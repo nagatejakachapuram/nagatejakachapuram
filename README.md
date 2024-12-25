@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Nagateja 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/[nagatejakachapuram]/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nagatejakachapuram/)
 
 Aspiring software developer with a strong focus on **blockchain** and **decentralized technologies**. 🚀 
 
