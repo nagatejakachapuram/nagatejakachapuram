@@ -16,6 +16,10 @@ Aspiring software developer with a strong focus on **blockchain** and **decentra
 - **Version Control**: Git
 - **Interests**: Smart contract auditing, decentralized applications (dApps), DeFi protocols
 
+
+### Certifications
+- [HackQuest Certified Builder](https://www.hackquest.io/api/certificate/Kachapuram%20Nagateja%20-1001673.png)
+
 ## 🌟 Current Projects
 1. **Voting System**: Building a decentralized voting system using Solidity, Go, and Web3.js.
 2. **Lending Protocol**: Implementing a decentralized lending platform with Foundry.
