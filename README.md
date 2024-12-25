@@ -1,4 +1,6 @@
 # 👋 Hi there! I'm Nagateja 
+![GitHub followers](https://img.shields.io/github/followers/[nagatejakachapuram]?label=Follow%20Me%20on%20GitHub&style=social)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/[nagatejakachapuram]/)
 
 Aspiring software developer with a strong focus on **blockchain** and **decentralized technologies**. 🚀 
 
