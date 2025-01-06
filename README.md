@@ -15,6 +15,9 @@
 
 ---
 
+
+
+
 [![](https://visitcount.itsvg.in/api?id=nagatejakachapuram&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🏆 Achievements
@@ -33,5 +36,3 @@
 - Expand knowledge of **DeFi**, **NFTs**, and **Layer-2 scaling solutions**.
 
 Feel free to explore my repositories and reach out to collaborate! 😊
-
-
