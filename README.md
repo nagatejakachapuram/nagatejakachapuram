@@ -9,13 +9,23 @@
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nagatejakachapuram&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nagatejakachapuram&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nagatejakachapuram&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img src="https://raw.githubusercontent.com/nagatejakachapuram/nagatejakachapuram/output/snake.svg" alt="Snake animation" />
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=nagatejakachapuram&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagatejakachapuram&theme=dark&hide_border=false" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagatejakachapuram&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
 
----
 
 
 
@@ -29,7 +39,7 @@
 
 ## 🌟 Current Projects
 1. **Voting System**: Building a decentralized voting system using Solidity, Go, and Web3.js.
-2. **Lending Protocol**: Implementing a decentralized lending platform with Foundry.
+2. **DeFi Protocol**: Implementing a decentralized lending platform with Foundry.
 3. **Safe/Locker dApp**: Creating a secure smart contract for asset storage.
 
 ## 🎯 Goals
