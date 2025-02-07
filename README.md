@@ -31,7 +31,7 @@
 ## 🌟 Current Projects
 1. **Voting System**: Building a decentralized voting system using Solidity, Go, and Web3.js.
 2. **DeFi Protocol**: Implementing a decentralized lending platform with Foundry.
-3. **Safe/Locker dApp**: Creating a secure smart contract for asset storage.
+3. **Airdrop Project**: Implementing  airdrop using merkle proofs.
 
 ## 🎯 Goals
 - Master **smart contract development** and auditing.
