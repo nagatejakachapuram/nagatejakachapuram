@@ -16,7 +16,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=nagatejakachapuram&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagatejakachapuram&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagatejakachapuram&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook" alt="Most Used Languages" />
     </td>
   </tr>
 </table>
@@ -33,11 +33,15 @@
 1. **DeFi Stablecoin Protocol**: Developing a decentralized lending platform using **Foundry** for testing and deployment.  
    - Implemented minting and collateral deposit functionalities.  
    - Working on collateral liquidation and interest mechanisms.  
-2. **Airdrop Project**: Implementing an airdrop using **Merkle Proofs** for verification and distribution.  
-3. **Lottery System**: Building a decentralized lottery system using **Solidity**.  
-   - Focused on improving randomness and testing strategies.  
-4. **Voting System**: Revisiting and enhancing the decentralized voting system using **Solidity**, **Go**, and **Web3.js**.  
-5. **Locker dApp (Safe)**: Creating a secure smart contract for asset storage.  
+2. **Merkle Airdrop & Signature-Based Authentication**:  
+   - Implementing an **Airdrop using Merkle Proofs** for secure verification and distribution.  
+   - Developing a **Signature-based authentication mechanism** for on-chain identity verification.  
+3. **Account Abstraction**:  
+   - Exploring **ERC-4337** for smart contract wallets and gasless transactions.  
+   - Implementing a **custom paymaster** for relayer-based transaction sponsorship.  
+4. **Upgradeable Smart Contracts**:  
+   - Learning **proxy patterns** such as **UUPS and Transparent Proxies**.  
+   - Implementing **upgradeable DeFi contracts** to enhance modularity and security.  
 
 ## 🎯 Goals
 - Master **smart contract development** and auditing.  
