@@ -39,7 +39,7 @@ Welcome to my personal repository! I'm an aspiring **Solidity developer**, **ZK 
 ## 📈 Roadmap
 
 * ✅ Launch AI-powered Yield Optimizer MVP
-* 🚧 Finalize Flare-AMM DEX with Prediction Market
+* ✅ Flare-AMM DEX with Prediction Market
 * 🌑 Build a privacy-preserving **zkApp using Noir**
 * 🦀 Master **Rust security patterns** for smart contracts
 * 🔮 Deep-dive into **Solana smart contracts (Anchor + BPF)**
