@@ -23,7 +23,7 @@ Welcome to my personal repository! I'm an aspiring **Solidity developer**, **ZK 
   * Performing audits, threat modeling, and formal verification
   * Focused on **Foundry-based testing**, fuzzing, and vulnerability discovery
 
-* 👨‍💻 **Blockchain Intern @ TechStek**
+* 👨‍💻 **Blockchain Intern @ TechSteck**
 
   * Working on smart contract development and security testing
   * Contributing to production-grade DeFi infrastructure
