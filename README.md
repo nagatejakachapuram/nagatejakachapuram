@@ -11,9 +11,7 @@ Welcome to my personal repository! I'm a security-focused Solidity developer and
 * Interning at **TechSteck**, contributing to production-grade blockchain infrastructure.
 
 For security reviews or collaborations, please reach out via:
-* **Twitter:** `[Link to your Twitter profile]`
-* **Telegram:** `[Link to your Telegram handle]`
-* **Email:** `[Your email address]`
+* **Email:** `nagateja.devx@gmail.com`
 
 ---
 
