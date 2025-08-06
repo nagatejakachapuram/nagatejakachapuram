@@ -19,7 +19,7 @@ For security reviews or collaborations, please reach out via:
 
 ## 🔐 Security & Audit Portfolio
 
-My primary focus is on identifying vulnerabilities and improving the security posture of DeFi protocols. My audit submissions can be found on my [Sherlock]() and [Code4rena]() profiles.
+My primary focus is on identifying vulnerabilities and improving the security posture of DeFi protocols. My audit submissions can be found on my [Sherlock]() and [Cantina]() profiles.
 
 ### Competitive Audit Highlights
 
