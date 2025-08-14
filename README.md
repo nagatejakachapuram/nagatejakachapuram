@@ -6,7 +6,7 @@ Welcome to my personal repository! I'm a security-focused Solidity developer and
 
 ### Summary
 
-* Auditing and securing smart contracts on platforms like Code4rena and Sherlock.
+* Auditing and securing smart contracts on platforms like Code4rena, Cantina and Sherlock.
 * Developing secure,- and AI-enhanced DeFi primitives.
 * Interning at **TechSteck**, contributing to production-grade blockchain infrastructure.
 
@@ -15,21 +15,72 @@ For security reviews or collaborations, please reach out via:
 
 ---
 
-## 🔐 Security & Audit Portfolio
+# 🔐 Security & Audit Portfolio
 
-My primary focus is on identifying vulnerabilities and improving the security posture of DeFi protocols. My audit submissions can be found on my [Sherlock]() and [Cantina]() profiles.
-
-### Competitive Audit Highlights
-
-| Contest / Project       | Platform      | Category / Focus                  | Rank / Impact                     | Report / Findings Link                                |
-| ----------------------- | ------------- | --------------------------------- | --------------------------------- | ----------------------------------------------------- |
-| *pike-tapio-monorepo*| `Cantina`   | `lending and borrowing protocol`             | `1 LOW, 3 Info`         | `TBA`       |
-| *Mellow Flexible Vaults* | `Sherlock`    | `DeFi`          | `1 MEDIUM`  | `TBA`                           |
-|                         |               |                                   |                                   |                                                       |
-
-
+I specialize in **smart contract security reviews**, **DeFi protocol auditing**, and **competitive audit contests**.  
+My work focuses on identifying high-impact vulnerabilities, proposing robust fixes, and ensuring production readiness of onchain systems.  
 
 ---
+
+## 🛡️ Security Tools & Platforms
+
+<p align="left">
+  <!-- Audit Platforms -->
+  <img src="https://img.shields.io/badge/Code4rena-212121?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sherlock-2C3E50?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cantina-34495E?style=for-the-badge&logo=ethereum&logoColor=white" />
+
+  <!-- Security Tools -->
+  <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slither-4E342E?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Echidna-6A1B9A?style=for-the-badge&logo=haskell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mythril-283593?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
+## 📜 Competitive Audit Highlights
+
+| Project / Protocol        | Platform       | Domain / Focus                | Key Findings & Impact           | Report / Submission |
+| ------------------------- | -------------- | ----------------------------- | -------------------------------- | ------------------- |
+| **Pike-Tapio Monorepo**   | Cantina        | Lending & Borrowing Protocol  | 1 Medium(Solo), 2 Low, 2 Info           | TBA                 |
+| **Mellow Flexible Vaults**| Sherlock       | DeFi Vault Strategies         | 1 Medium   | TBA                 |
+
+---
+
+## 🛠️ Security Methodology
+
+My review process follows a structured methodology to ensure comprehensive coverage:  
+
+1. **Recon & Context Building**  
+   - Protocol architecture mapping  
+   - Threat model creation  
+
+2. **Static Analysis**  
+   - Automated scans with **Slither**, **Mythril**, **Solhint**  
+
+3. **Manual Review**  
+   - Line-by-line inspection for logic flaws, access control gaps, and unchecked assumptions  
+
+4. **Fuzzing & Property Testing**  
+   - Adversarial inputs using **Foundry Fuzz** and **Echidna**  
+
+5. **Exploit Simulation**  
+   - Forked mainnet testing for MEV, flash loan attacks, and liquidity stress  
+
+6. **Reporting & Recommendations**  
+   - Clear vulnerability classification (Informational → Critical)  
+   - Secure patch proposals with code diffs  
+
+---
+
+## 📌 Upcoming & Ongoing Audits  
+
+- **Flare FAsset** 
+- **Neutrl Protocol** 
+
+---
+
 
 ## 💼 Current Development Focus
 
