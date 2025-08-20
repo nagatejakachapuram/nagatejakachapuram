@@ -26,15 +26,15 @@ My work focuses on identifying high-impact vulnerabilities, proposing robust fix
 
 <p align="left">
   <!-- Audit Platforms -->
-  <img src="https://img.shields.io/badge/Code4rena-212121?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sherlock-2C3E50?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cantina-34495E?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code4rena-212121?style=for-the-badge&logo=code4rena&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sherlock-2C3E50?style=for-the-badge&logo=sherlock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cantina-34495E?style=for-the-badge&logo=cantina&logoColor=white" />
 
   <!-- Security Tools -->
-  <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Slither-4E342E?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Echidna-6A1B9A?style=for-the-badge&logo=haskell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mythril-283593?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=foundry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slither-4E342E?style=for-the-badge&logo=slither&logoColor=white" />
+  <img src="https://img.shields.io/badge/Echidna-6A1B9A?style=for-the-badge&logo=echidna&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mythril-283593?style=for-the-badge&logo=mythril&logoColor=white" />
 </p>
 
 ---
