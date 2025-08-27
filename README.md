@@ -20,66 +20,61 @@ For security reviews or collaborations, please reach out via:
 I specialize in **smart contract security reviews**, **DeFi protocol auditing**, and **competitive audit contests**.  
 My work focuses on identifying high-impact vulnerabilities, proposing robust fixes, and ensuring production readiness of onchain systems.  
 
+
+---
+
+## 📑 Public Competitions
+
+
+| Contest             | Date    | Category | Platform | Findings | Placement       |
+| ------------------- | ------- | -------- | -------- | -------- | --------------- |
+| **Mellow Flexible Vaults** | 2025-08 | Vault | Sherlock | 1 M   | [Rank: 43 / Link](https://audits.sherlock.xyz/contests/964?filter=results) |
+| **Pike Finance** | 2025-08 | Lending & Borrowing | Cantina | 1 M(solo), 2 L   | [Rank: TBA / Link](TBA) |
+| **Malda** | 2025-08 | Lending Protocol | Sherlock | 1 M   | [Rank: TBA / Link](TBA) |
+
+---
+
+
+## 🤝 Team Collaborations
+
+| Contest             | Date    | Category | Platform | Findings | Placement       |
+| ------------------- | ------- | -------- | -------- | -------- | --------------- |
+| **Kuru Contracts** | 2025-08 | DEFI | Cantina | TBA   | [Rank: TBA / Link](TBA) |
+
 ---
 
 ## 🛡️ Security Tools & Platforms
 
 <p align="left">
-  <!-- Audit Platforms -->
   <img src="https://img.shields.io/badge/Code4rena-212121?style=for-the-badge&logo=code4rena&logoColor=white" />
   <img src="https://img.shields.io/badge/Sherlock-2C3E50?style=for-the-badge&logo=sherlock&logoColor=white" />
   <img src="https://img.shields.io/badge/Cantina-34495E?style=for-the-badge&logo=cantina&logoColor=white" />
-
-  <!-- Security Tools -->
   <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=foundry&logoColor=white" />
   <img src="https://img.shields.io/badge/Slither-4E342E?style=for-the-badge&logo=slither&logoColor=white" />
   <img src="https://img.shields.io/badge/Echidna-6A1B9A?style=for-the-badge&logo=echidna&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mythril-283593?style=for-the-badge&logo=mythril&logoColor=white" />
-</p>
-
----
-
-## 📜 Competitive Audit Highlights
-
-| Project / Protocol        | Platform       | Domain / Focus                | Key Findings & Impact           | Report / Submission |
-| ------------------------- | -------------- | ----------------------------- | -------------------------------- | ------------------- |
-| **Pike-Tapio Monorepo**   | Cantina        | Lending & Borrowing Protocol  | 1 Medium(Solo), 2 Low, 2 Info           | TBA                 |
-| **Mellow Flexible Vaults**| Sherlock       | DeFi Vault Strategies         | 1 Medium   | TBA                 |
+</p>  
 
 ---
 
 ## 🛠️ Security Methodology
 
-My review process follows a structured methodology to ensure comprehensive coverage:  
-
-1. **Recon & Context Building**  
-   - Protocol architecture mapping  
-   - Threat model creation  
-
-2. **Static Analysis**  
-   - Automated scans with **Slither**, **Mythril**, **Solhint**  
-
-3. **Manual Review**  
-   - Line-by-line inspection for logic flaws, access control gaps, and unchecked assumptions  
-
-4. **Fuzzing & Property Testing**  
-   - Adversarial inputs using **Foundry Fuzz** and **Echidna**  
-
-5. **Exploit Simulation**  
-   - Forked mainnet testing for MEV, flash loan attacks, and liquidity stress  
-
-6. **Reporting & Recommendations**  
-   - Clear vulnerability classification (Informational → Critical)  
-   - Secure patch proposals with code diffs  
+1. **Recon & Context Building** – Architecture mapping, threat modeling
+2. **Static Analysis** – Automated scans (Slither, Mythril, Solhint)
+3. **Manual Review** – Line-by-line inspection for logic flaws & access control
+4. **Fuzzing & Property Testing** – Foundry fuzzing, Echidna invariants
+5. **Exploit Simulation** – Mainnet forking, MEV & flashloan attack scenarios
+6. **Reporting & Recommendations** – Clear severity classification + patch proposals
 
 ---
 
-## 📌 Upcoming & Ongoing Audits  
+## 📌 Upcoming & Ongoing Audits
 
-- **Flare FAsset** 
-- **Neutrl Protocol** 
+* **Kuru contracts** – CLOB
+* **Ammplify** – AMM
+* **USG Tangent** - Stablecoin
 
 ---
+
 
 
 ## 💼 Current Development Focus
