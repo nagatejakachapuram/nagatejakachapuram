@@ -29,8 +29,8 @@ My work focuses on identifying high-impact vulnerabilities, proposing robust fix
 | Contest             | Date    | Category | Platform | Findings | Placement       |
 | ------------------- | ------- | -------- | -------- | -------- | --------------- |
 | **Mellow Flexible Vaults** | 2025-08 | Vault | Sherlock | 1 M   | [Rank: 43 / Link](https://audits.sherlock.xyz/contests/964?filter=results) |
-| **Pike Finance** | 2025-08 | Lending & Borrowing | Cantina | 1 M(solo), 2 L   | [Rank: TBA / Link](TBA) |
-| **Malda** | 2025-08 | Lending Protocol | Sherlock | 1 M   | [Rank: TBA / Link](TBA) |
+| **Pike Finance** | 2025-08 | Lending & Borrowing | Cantina | 1 M(solo), 2 L   | [Rank: Results Pending / Link]() |
+| **Malda** | 2025-08 | Lending Protocol | Sherlock | 1 M   | [Rank: Results Pending / Link]() |
 
 ---
 
@@ -39,7 +39,7 @@ My work focuses on identifying high-impact vulnerabilities, proposing robust fix
 
 | Contest             | Date    | Category | Platform | Findings | Placement       |
 | ------------------- | ------- | -------- | -------- | -------- | --------------- |
-| **Kuru Contracts** | 2025-08 | DEFI | Cantina | TBA   | [Rank: TBA / Link](TBA) |
+| **Kuru Contracts** | 2025-08 | DEFI | Cantina | TBA   | [Rank: Results Pending / Link]() |
 
 ---
 
