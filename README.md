@@ -9,19 +9,30 @@ Welcome to my personal repository! I'm a security-focused Solidity developer and
 * Auditing and securing smart contracts on platforms like Code4rena, Cantina and Sherlock.
 * Developing secure,- and AI-enhanced DeFi primitives.
 * Interning at **TechSteck**, contributing to production-grade blockchain infrastructure.
+* Ranked **Top 400 Cantina** & **Top 7 Finisher** 🏆  
 
 For security reviews or collaborations, please reach out via:
 * **Email:** `nagateja.devx@gmail.com`
 
 ---
+##  International Client Highlight
 
-# 🔐 Security & Audit Portfolio
-
-I specialize in **smart contract security reviews**, **DeFi protocol auditing**, and **competitive audit contests**.  
-My work focuses on identifying high-impact vulnerabilities, proposing robust fixes, and ensuring production readiness of onchain systems.  
-
+Proud to be serving **BIFY** (NFT Marketplace on Base) as a contract developer. Learn more about their vision: [Twitter / X](https://x.com/BIFYOfficial)
 
 ---
+
+# 🔐 Security & Audit Portfolio  
+
+I specialize in **smart contract security reviews**, **DeFi protocol auditing**, and **competitive audit contests**.  
+My work focuses on identifying **high-impact vulnerabilities**, proposing **robust fixes**, and ensuring **production readiness** of onchain systems.  
+
+---
+
+## 🏆 Key Achievements  
+
+- 🥇 **Top 7 Auditor** in [Pike Finance – Cantina (2025-08)](https://cantina.xyz/code/a0806644-7d91-457a-a08d-aee2db73f352/overview/leaderboard)  
+- 💎 Consistent **Top 400 Cantina Global Auditor Ranking**  
+- ⚡ Multiple **high-severity findings** across DeFi protocols  
 
 ## 📑 Public Competitions
 
@@ -29,7 +40,7 @@ My work focuses on identifying high-impact vulnerabilities, proposing robust fix
 | Contest             | Date    | Category | Platform | Findings | Placement       |
 | ------------------- | ------- | -------- | -------- | -------- | --------------- |
 | **Mellow Flexible Vaults** | 2025-08 | Vault | Sherlock | 1 M   | [Rank: 43 / Link](https://audits.sherlock.xyz/contests/964?filter=results) |
-| **Pike Finance** | 2025-08 | Lending & Borrowing | Cantina | 1 M(solo), 2 L   | [Rank: Results Pending / Link]() |
+| **Pike Finance** | 2025-08 | Lending & Borrowing | Cantina | 1 M(solo), 1 L   | [Rank: 7 / Link](https://cantina.xyz/code/a0806644-7d91-457a-a08d-aee2db73f352/overview/leaderboard) |
 | **Malda** | 2025-08 | Lending Protocol | Sherlock | 1 M   | [Rank: Results Pending / Link]() |
 
 ---
@@ -98,11 +109,11 @@ My work focuses on identifying high-impact vulnerabilities, proposing robust fix
 
 * ✅ Launch AI-powered Yield Optimizer MVP.
 * ✅ Launch Flare-AMM DEX with Prediction Market.
-* **🏆 Secure a Top-10 placement in a competitive audit contest.**
+* ✅ 🏆 Secure a Top-10 placement in a competitive audit contest.**
 * **🐞 Find and report a high-impact bug via a bounty program.**
 * 🌑 Build and launch a privacy-preserving **zkApp using Noir**.
 * 🦀 Master **Rust security patterns** for smart contracts (Solana & CosmWasm).
-* **🤝 Contribute security insights to a major DeFi protocol.**
+* ✅🤝 Contribute security insights to a major DeFi protocol.**
 
 ---
 
