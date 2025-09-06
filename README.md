@@ -9,7 +9,7 @@ Welcome to my personal repository! I'm a security-focused Solidity developer and
 * Auditing and securing smart contracts on platforms like Code4rena, Cantina and Sherlock.
 * Developing secure,- and AI-enhanced DeFi primitives.
 * Interning at **TechSteck**, contributing to production-grade blockchain infrastructure.
-* Ranked **Top 400 Cantina** & **Top 7 Finisher** 🏆  
+* Ranked **Top 400 Cantina All Time** & **Top 7 Finisher** 🏆  
 
 For security reviews or collaborations, please reach out via:
 * **Email:** `nagateja.devx@gmail.com`
