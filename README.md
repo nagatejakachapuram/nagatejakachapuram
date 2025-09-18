@@ -7,12 +7,16 @@ Welcome to my personal repository! I'm a security-focused Solidity developer and
 ### Summary
 
 * Auditing and securing smart contracts on platforms like Code4rena, Cantina and Sherlock.
-* Developing secure,- and AI-enhanced DeFi primitives.
-* Interning at **TechSteck**, contributing to production-grade blockchain infrastructure.
-* Ranked **Top 400 Cantina All Time** & **Top 7 Finisher** 🏆  
+* Developing secure, AI-enhanced DeFi primitives.
+* Ranked **Top 400 Cantina All Time** & **Top 7 Finisher** 🏆
+* Building **BIFY** — an AI-powered NFT & RWA marketplace on **Base** where creators, collectors & brands converge; enabling minting, tokenisation of real-world assets, gated content, and interactive AI-agent NFTs. ([bify.io][1])
 
 For security reviews or collaborations, please reach out via:
+
 * **Email:** `nagateja.devx@gmail.com`
+* **Discord:** `rich040074`
+* ⚠️ Important: These are my only official contacts. Any other accounts or messages claiming to be me are scams.
+
 
 ---
 ##  International Client Highlight
