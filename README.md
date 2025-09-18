@@ -9,7 +9,7 @@ Welcome to my personal repository! I'm a security-focused Solidity developer and
 * Auditing and securing smart contracts on platforms like Code4rena, Cantina and Sherlock.
 * Developing secure, AI-enhanced DeFi primitives.
 * Ranked **Top 400 Cantina All Time** & **Top 7 Finisher** 🏆
-* Building **BIFY** — an AI-powered NFT & RWA marketplace on **Base** where creators, collectors & brands converge; enabling minting, tokenisation of real-world assets, gated content, and interactive AI-agent NFTs. ([bify.io][1])
+* Building **BIFY** — an AI-powered NFT & RWA marketplace on **Base** where creators, collectors & brands converge; enabling minting, tokenisation of real-world assets, gated content, and interactive AI-agent NFTs.
 
 For security reviews or collaborations, please reach out via:
 
