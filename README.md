@@ -1,4 +1,4 @@
-# Kachapuram Nagateja – Web3 Security Researcher | Smart Contract Developer
+# Kachapuram Nagateja – Independent Security Researcher | Smart Contract Developer
 
 Welcome to my personal repository! I'm a security-focused Solidity developer and ZK enthusiast dedicated to building and securing the next generation of decentralized applications.
 
