@@ -46,7 +46,7 @@ My work focuses on identifying **high-impact vulnerabilities**, proposing **robu
 | **Mellow Flexible Vaults** | 2025-08 | Vault | Sherlock | 1 M   | [Rank: 43 / Link](https://audits.sherlock.xyz/contests/964?filter=results) |
 | **Pike Finance** | 2025-08 | Lending & Borrowing | Cantina | 1 M(solo), 1 L   | [Rank: 7 / Link](https://cantina.xyz/code/a0806644-7d91-457a-a08d-aee2db73f352/overview/leaderboard) |
 | **Malda** | 2025-08 | Lending Protocol | Sherlock | 1 M   | [Rank: 46/ Link](https://audits.sherlock.xyz/contests/1029/leaderboard) |
-| **Octant V2-Core** | 2025-09 | DEFI | Cantina | 1 H, 2 Info   | [Rank: Results Pending / Link]() |
+| **Octant V2-Core** | 2025-09 | DEFI | Cantina | 1 H, 2 Info   | [Rank: 6 / Link](https://cantina.xyz/code/917d796b-48d0-41d0-bb40-be137b7d3db5/overview/leaderboard) |
 
 ---
 
