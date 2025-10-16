@@ -8,7 +8,7 @@ Welcome to my personal repository! I'm a security-focused Solidity developer and
 
 * Auditing and securing smart contracts on platforms like Code4rena, Cantina and Sherlock.
 * Developing secure, AI-enhanced DeFi primitives.
-* Ranked **Top 400 Cantina All Time** & **Top 7 Finisher** 🏆
+* Ranked **Top 307 Cantina All Time** & Multiple **Top 7 Finishes** 🏆
 * Building **BIFY** — an AI-powered NFT & RWA marketplace on **Base** where creators, collectors & brands converge; enabling minting, tokenisation of real-world assets, gated content, and interactive AI-agent NFTs.
 
 For security reviews or collaborations, please reach out via:
@@ -34,7 +34,8 @@ My work focuses on identifying **high-impact vulnerabilities**, proposing **robu
 
 ## 🏆 Key Achievements  
 
-- 🥇 **Top 7 Auditor** in [Pike Finance – Cantina (2025-08)](https://cantina.xyz/code/a0806644-7d91-457a-a08d-aee2db73f352/overview/leaderboard)  
+- 🥇 **Top 7 Auditor** in [Pike Finance – Cantina (2025-07)](https://cantina.xyz/code/a0806644-7d91-457a-a08d-aee2db73f352/overview/leaderboard)  
+- 🥇 **Top 6 Auditor** in [Octant-V2-Core - Cantina (2025-09)](https://cantina.xyz/code/917d796b-48d0-41d0-bb40-be137b7d3db5/overview/leaderboard)
 - 💎 Consistent **Top 400 Cantina Global Auditor Ranking**  
 - ⚡ Multiple **high-severity findings** across DeFi protocols  
 
