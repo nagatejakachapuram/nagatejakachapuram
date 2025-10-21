@@ -14,7 +14,7 @@ Welcome to my personal repository! I'm a security-focused Solidity developer and
 For security reviews or collaborations, please reach out via:
 
 * **Email:** `nagateja.devx@gmail.com`
-* **Discord:** `rich040074`
+* **Discord:** `developerx_sec`
 * ⚠️ Important: These are my only official contacts. Any other accounts or messages claiming to be me are scams.
 
 
