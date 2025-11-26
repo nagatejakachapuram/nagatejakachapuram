@@ -102,18 +102,6 @@ Independent builds focused on merging AI agents with on-chain DeFi and exploring
 
 ---
 
-## 📊 Github Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nagatejakachapuram&show_icons=true&theme=dark&hide_border=true" alt="stats" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagatejakachapuram&layout=compact&theme=dark&hide_border=true" alt="langs" height="160" />
-</p>
-
----
-
-
-<div align="center">
-
 
 
 [![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/developerx_sec)
