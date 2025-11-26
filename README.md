@@ -1,176 +1,123 @@
-# Kachapuram Nagateja – Independent Security Researcher | Smart Contract Developer
+# >_ Kachapuram Nagateja | Security Researcher & Core Engineer
 
-Welcome to my personal repository! I'm a security-focused Solidity developer and ZK enthusiast dedicated to building and securing the next generation of decentralized applications.
+`Deploying profile...`
+`Scanning for vulnerabilities... Done.`
+
+Welcome. I am a smart contract security engineer and full-stack Web3 developer. My focus is adversarial testing, securing DeFi primitives, and architecting the infrastructure for the next generation of AI-driven decentralized applications.
 
 ---
 
-### Summary
+### >_ System Status // Overview
 
-* Auditing and securing smart contracts on platforms like Code4rena, Cantina and Sherlock.
-* Developing secure, AI-enhanced DeFi primitives.
-* Ranked **Top 307 Cantina All Time** & Multiple **Top 7 Finishes** 🏆
-* Building **BIFY** — an AI-powered NFT & RWA marketplace on **Base** where creators, collectors & brands converge; enabling minting, tokenisation of real-world assets, gated content, and interactive AI-agent NFTs.
+* **Primary Operations:** Core Smart Contract Developer @ **BIFY** (Full-Time).
+* **Specialization:** High-severity bug hunting, invariant analysis, and ZK-privacy implementation.
+* **Clearance Level:**
+    * 🏆 **Top 7 Global Auditor** (Multiple high-rank finishes on Cantina).
+    * 💎 **Top 300 All-Time** Ranked (Cantina).
 
-For security reviews or collaborations, please reach out via:
+### >_ Uplink // Contact Channels
 
-* **Email:** `nagateja.devx@gmail.com`
+* **X / Twitter:** [@developerx_sec](https://x.com/developerx_sec)
 * **Discord:** `developerx_sec`
-* ⚠️ Important: These are my only official contacts. Any other accounts or messages claiming to be me are scams.
-
-
----
-##  International Client Highlight
-
-Proud to be serving **BIFY** (NFT Marketplace on Base) as a contract developer. Learn more about their vision: [Twitter / X](https://x.com/BIFYOfficial)
+* **Email:** `nagateja.devx@gmail.com`
+* ⚠️ **Secure Comms:** These are my only official channels. Verify all contacts.
 
 ---
 
-# 🔐 Security & Audit Portfolio  
+## 🟢 Active Deployment [Full-Time]
 
-I specialize in **smart contract security reviews**, **DeFi protocol auditing**, and **competitive audit contests**.  
-My work focuses on identifying **high-impact vulnerabilities**, proposing **robust fixes**, and ensuring **production readiness** of onchain systems.  
+**Protocol:** [BIFY (Base Network)](https://x.com/BIFYOfficial)
+**Role:** Core Developer & Security Lead
+**Status:** `LIVE`
 
----
-
-## 🏆 Key Achievements  
-
-- 🥇 **Top 7 Auditor** in [Pike Finance – Cantina (2025-07)](https://cantina.xyz/code/a0806644-7d91-457a-a08d-aee2db73f352/overview/leaderboard)  
-- 🥇 **Top 6 Auditor** in [Octant-V2-Core - Cantina (2025-09)](https://cantina.xyz/code/917d796b-48d0-41d0-bb40-be137b7d3db5/overview/leaderboard)
-- 💎 Consistent **Top 400 Cantina Global Auditor Ranking**  
-- ⚡ Multiple **high-severity findings** across DeFi protocols  
-
-## 📑 Public Competitions
-
-
-| Contest             | Date    | Category | Platform | Findings | Placement       |
-| ------------------- | ------- | -------- | -------- | -------- | --------------- |
-| **Mellow Flexible Vaults** | 2025-08 | Vault | Sherlock | 1 M   | [Rank: 43 / Link](https://audits.sherlock.xyz/contests/964?filter=results) |
-| **Pike Finance** | 2025-08 | Lending & Borrowing | Cantina | 1 M(solo), 1 L   | [Rank: 7 / Link](https://cantina.xyz/code/a0806644-7d91-457a-a08d-aee2db73f352/overview/leaderboard) |
-| **Malda** | 2025-08 | Lending Protocol | Sherlock | 1 M   | [Rank: 46/ Link](https://audits.sherlock.xyz/contests/1029/leaderboard) |
-| **Octant V2-Core** | 2025-09 | DEFI | Cantina | 1 H, 2 Info   | [Rank: 6 / Link](https://cantina.xyz/code/917d796b-48d0-41d0-bb40-be137b7d3db5/overview/leaderboard) |
-| **Megapot** | 2025-11 | DEFI | Code4rena | 1 L | [Rank: Results Pending / Link]() |
+> I am currently deployed full-time as a core developer for BIFY, architecting an AI-powered marketplace on Base where creators, collectors, and brands converge.
+>
+> * **Engineering:** Developing secure smart contracts for NFT minting, marketplace logic, and Real-World Asset (RWA) tokenization.
+> * **Innovation:** Implementing standards for interactive, AI-agent driven NFTs and gated content mechanisms.
 
 ---
 
+## 🔐 Audit Log & Security Clearance
 
-## 🤝 Team Collaborations
+My independent security work focuses on shattering assumptions in live protocols through adversarial review and advanced fuzzing.
 
-| Contest             | Date    | Category | Platform | Findings | Placement       |
-| ------------------- | ------- | -------- | -------- | -------- | --------------- |
-| **Kuru Contracts** | 2025-08 | DEFI | Cantina | 1 L, 2 Info   | [Results / Link](https://cantina.xyz/code/cdce21ba-b787-4df4-9c56-b31d085388e7/overview) |
+### 🏆 High-Impact Findings (Hall of Fame)
 
+* 🥇 **Rank #6** | Octant V2-Core (Cantina) - *Identified 1 High Severity vulnerability.*
+* 🥇 **Rank #7** | Pike Finance (Cantina) - *Solo Medium finding + Low.*
+* 🎖️ **Rank #43** | Mellow Flexible Vaults (Sherlock)
+
+### 📑 Recent Operations
+
+| Target Protocol | Type | Platform | Findings | Rank |
+| :--- | :--- | :--- | :--- | :--- |
+| **Megapot** | DeFi | Code4rena | 1 Low | *Pending* |
+| **Octant V2-Core** | DeFi | Cantina | **1 High**, 2 Info | [**#6**](https://cantina.xyz/code/917d796b-48d0-41d0-bb40-be137b7d3db5/overview/leaderboard) |
+| **Kuru** | CLOB | Cantina | 1 Low, 2 Info | [Results](https://cantina.xyz/code/cdce21ba-b787-4df4-9c56-b31d085388e7/overview) |
+| **Mellow Vaults** | Vaults | Sherlock | 1 Med | [#43](https://audits.sherlock.xyz/contests/964/leaderboard) |
+| **Pike Finance** | Lending | Cantina | 1 Med (Solo), 1 Low | [**#7**](https://cantina.xyz/code/917d796b-48d0-41d0-bb40-be137b7d3db5/overview/leaderboard) |
+| **Malda** | Lending | Sherlock | 1 Med | [#46](https://audits.sherlock.xyz/contests/1029/leaderboard) |
 
 ---
 
-## 🛡️ Security Tools & Platforms
+## 🛡️ Loadout // Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Code4rena-212121?style=for-the-badge&logo=code4rena&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sherlock-2C3E50?style=for-the-badge&logo=sherlock&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cantina-34495E?style=for-the-badge&logo=cantina&logoColor=white" />
   <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=foundry&logoColor=white" />
-  <img src="https://img.shields.io/badge/Slither-4E342E?style=for-the-badge&logo=slither&logoColor=white" />
   <img src="https://img.shields.io/badge/Echidna-6A1B9A?style=for-the-badge&logo=echidna&logoColor=white" />
-</p>  
+  <img src="https://img.shields.io/badge/Slither-4E342E?style=for-the-badge&logo=slither&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code4rena-212121?style=for-the-badge&logo=code4rena&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cantina-34495E?style=for-the-badge&logo=cantina&logoColor=white" />
+</p>
+
+### >_ Attack Methodology
+
+1.  **Threat Modeling:** Architecture mapping and identifying critical economic invariants.
+2.  **Static Analysis:** Automated scanning via Slither/Aderyn to flag low-hanging fruit.
+3.  **Manual Review:** Deep-dive line-by-line inspection for logic flaws and access control.
+4.  **Fuzz Testing:** Writing aggressive property-based tests in Foundry & Echidna.
+5.  **Exploit Simulation:** Mainnet forking to validate attack vectors (flashloans/MEV).
 
 ---
 
-## 🛠️ Security Methodology
+## 🧪 R&D Labs
 
-1. **Recon & Context Building** – Architecture mapping, threat modeling
-2. **Static Analysis** – Automated scans (Slither, Mythril, Solhint)
-3. **Manual Review** – Line-by-line inspection for logic flaws & access control
-4. **Fuzzing & Property Testing** – Foundry fuzzing, Echidna invariants
-5. **Exploit Simulation** – Mainnet forking, MEV & flashloan attack scenarios
-6. **Reporting & Recommendations** – Clear severity classification + patch proposals
+Independent builds focused on merging AI agents with on-chain DeFi and exploring zero-knowledge cryptography.
 
----
-
-## 📌 Upcoming & Ongoing Audits
-
-* **Kuru contracts** – CLOB
-* **Ammplify** – AMM
-* **USG Tangent** - Stablecoin
-
----
-
-
-
-## 💼 Current Development Focus
-
-* 🧠 **AI-Powered Yield Optimizer**
-    * Built with **ElizaOS** + **Chainlink Automation**.
-    * Yearn-style vaults with strategy rotation dictated by an off-chain AI agent.
-    * Integrates with major DeFi protocols like Aave, Morpho, and Curve.
-
-* ⚙️ **Flare-AMM DEX + Prediction Markets**
-    * A modular DEX supporting both token swaps and prediction games.
-    * Built from scratch to explore core AMM logic, pricing curves, and oracle-based resolution.
-
-* 🌌 **Noir + ZK Learning**
-    * Exploring private applications, proof systems, and tooling with **Noir**.
-    * Goal: Launch a fully-private zk-dApp using **Noir + Nargo**.
-
----
-
-## 📈 Roadmap & Goals
-
-* ✅ Launch AI-powered Yield Optimizer MVP.
-* ✅ Launch Flare-AMM DEX with Prediction Market.
-* ✅ 🏆 Secure a Top-10 placement in a competitive audit contest.**
-* **🐞 Find and report a high-impact bug via a bounty program.**
-* 🌑 Build and launch a privacy-preserving **zkApp using Noir**.
-* 🦀 Master **Rust security patterns** for smart contracts (Solana & CosmWasm).
-* ✅🤝 Contribute security insights to a major DeFi protocol.**
+* 🧠 **AI-Powered Yield Optimizer:** Yearn-style vaults where strategy rotation is dictated by off-chain ElizaOS AI agents via Chainlink Automation.
+* ⚙️ **Flare-AMM DEX:** A custom-built modular DEX supporting unique pricing curves and prediction markets.
+* 🌌 **Noir + ZK:** Exploring privacy-preserving applications and proof systems using Noir & Nargo.
 
 ---
 
 ## ⚙️ Tech Stack
 
-| Category         | Tools/Tech                                      |
-| ---------------- | ----------------------------------------------- |
-| Smart Contracts  | Solidity, Foundry, Hardhat                      |
-| Security & Audits| **Foundry Fuzz, Echidna, Slither, Mythril** |
-| ZK Stack         | Noir, Circom, SnarkJS                           |
-| Frontend         | Next.js, Web3.js, wagmi                         |
-| Agent Layer      | ElizaOS Plugins, TypeScript, REST APIs          |
-| Onchain Logic    | Chainlink Automation, OpenZeppelin Upgrades     |
-
+| Domain | Arsenal |
+| :--- | :--- |
+| **Smart Contracts** | Solidity, Foundry, Hardhat |
+| **Security** | **Foundry Fuzz, Echidna, Slither, Mythril** |
+| **ZK/Privacy** | Noir, Circom, SnarkJS |
+| **AI Agents** | ElizaOS Plugins, TypeScript, Python |
+| **Infrastructure** | Chainlink Automation, OZ Upgrades |
 
 ---
 
-## 📁 Featured Projects
+## 📊 Github Analytics
 
-### 1. **Yield Optimizer AI dApp**
-> Smart vaults that route capital based on strategies computed by off-chain AI agents.
-> **Repo:** [`yield-optimizer-prod`](https://github.com/nagatejakachapuram/yield-optimizer-prod)
-* 🧠 ElizaOS plugin computes optimal risk-adjusted yield.
-* 🛠️ Chainlink Automation triggers vault rebalances and strategy rotation.
-* ⚡ Integrates with Aave, Morpho, and Curve on testnet environments.
-
-### 2. **Flare-AMM DEX & Prediction App**
-> A custom-built protocol that combines AMM-style token swaps with onchain prediction markets.
-* 🧬 Uses unique pricing curves and market resolution logic.
-* 🎲 Supports binary outcomes with oracle-triggered event settlement.
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nagatejakachapuram&show_icons=true&theme=dark&hide_border=true" alt="stats" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagatejakachapuram&layout=compact&theme=dark&hide_border=true" alt="langs" height="160" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=nagatejakachapuram&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagatejakachapuram&theme=dark&hide_border=true&layout=compact&hide=jupyter%20notebook" />
-    </td>
-  </tr>
-</table>
+<div align="center">
 
----
 
-## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nagatejakachapuram)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/nagatejakachapuram)
+[![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/developerx_sec)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nagatejakachapuram)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nagatejakachapuram)
+
+</div>
