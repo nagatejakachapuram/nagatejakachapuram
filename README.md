@@ -52,6 +52,7 @@ My independent security work focuses on shattering assumptions in live protocols
 | Target Protocol | Type | Platform | Findings | Rank |
 | :--- | :--- | :--- | :--- | :--- |
 | **Megapot** | DeFi | Code4rena | 1 Low | *Pending* |
+| **Brix Money** | Defi | Code4rena | 1 Low | *Pending* |
 | **Octant V2-Core** | DeFi | Cantina | **1 High**, 2 Info | [**#6**](https://cantina.xyz/code/917d796b-48d0-41d0-bb40-be137b7d3db5/overview/leaderboard) |
 | **Kuru** | CLOB | Cantina | 1 Low, 2 Info | [Results](https://cantina.xyz/code/cdce21ba-b787-4df4-9c56-b31d085388e7/overview) |
 | **Mellow Vaults** | Vaults | Sherlock | 1 Med | [#43](https://audits.sherlock.xyz/contests/964/leaderboard) |
