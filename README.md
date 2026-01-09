@@ -59,6 +59,7 @@ My independent security work focuses on shattering assumptions in live protocols
 | **Pike Finance** | Lending | Cantina | 1 Med (Solo), 1 Low | [**#7**](https://cantina.xyz/code/917d796b-48d0-41d0-bb40-be137b7d3db5/overview/leaderboard) |
 | **Malda** | Lending | Sherlock | 1 Med | [#46](https://audits.sherlock.xyz/contests/1029/leaderboard) |
 | **Mento-V3** | Defi | Cantina | 1 Med | *Pending* |
+| **Panoptic** | Defi | Code4rena | 1 Med | *Pending* |
 
 ---
 
