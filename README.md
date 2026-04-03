@@ -128,37 +128,6 @@ nagateja@exploit-lab:~$ ./run_pipeline.sh --target=protocol --mode=adversarial
 
 ---
 
-## `❯ [ R&D_LABS :: CLASSIFIED ]`
-
-</div>
-
-```yaml
-# nagateja@exploit-lab:~$ cat /etc/labs/current.yml
-
-──────────────────────────────────────────────────────────
-  PROJECT_01
-──────────────────────────────────────────────────────────
-  name     : Agentic Payments System
-  focus    : Autonomous transaction execution
-  stack    : AI agents + on-chain coordination
-  status   : ACTIVE DEVELOPMENT
-
-──────────────────────────────────────────────────────────
-  PROJECT_02
-──────────────────────────────────────────────────────────
-  name     : Multi-Lang AI Audit Agent
-  focus    : Automated smart contract auditing
-  features :
-    - multi-language support (Solidity / others)
-    - vulnerability detection
-    - invariant analysis
-  status   : ACTIVE DEVELOPMENT
-```
-
----
-
-<div align="center">
-
 ## `❯ [ TECH_STACK :: LOADED ]`
 
 **`// SECURITY & AUDIT`**
