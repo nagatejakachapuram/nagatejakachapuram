@@ -4,6 +4,37 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=600&color=00FF9C&center=true&vCenter=true&width=900&lines=Kachapuram+Nagateja;Smart+Contract+Security+Engineer;Adversarial+Researcher+%2F+Protocol+Breaker;Top+320+Cantina+All+Time+Auditor" />
 
 </div>
+  <p align="center">
+
+<a href="https://developerx-security.xyz">
+  <img src="https://www.developerx-security.xyz/images/IMG_1371.JPG"
+       width="42"
+       height="42"
+       style="object-fit: cover; border-radius: 8px;" />
+</a>
+
+<a href="https://cantina.xyz/u/developerX">
+  <img src="https://cantina.xyz/favicon.ico"
+       width="42"
+       height="42"
+       style="object-fit: contain;" />
+</a>
+
+<a href="https://audits.sherlock.xyz/u/developerX">
+  <img src="https://audits.sherlock.xyz/favicon.ico"
+       width="42"
+       height="42"
+       style="object-fit: contain;" />
+</a>
+
+<a href="https://code4rena.com/@caesar49">
+ <img src="https://code4rena.com/logos/c4/c4-favicon-32.png"
+     width="42"
+     height="42"
+     style="object-fit: contain;" />
+</a>
+
+</p>
 
 ---
 
@@ -14,7 +45,7 @@
 </div>
 
 ```bash
-nagateja@exploit-lab:~$ cat /etc/identity.conf
+developerX@exploit-lab:~$ cat /etc/identity.conf
 
 ╔════════════════════════════════════════════════════════════════╗
 ║                                                                ║
@@ -46,7 +77,7 @@ nagateja@exploit-lab:~$ cat /etc/identity.conf
 </div>
 
 ```yaml
-# nagateja@exploit-lab:~$ cat /etc/deployments/active.yml
+# developerX@exploit-lab:~$ cat /etc/deployments/active.yml
 
 ──────────────────────────────────────────────────────────
   BIFY                                           [LIVE ●]
@@ -92,7 +123,7 @@ nagateja@exploit-lab:~$ cat /etc/identity.conf
 </div>
 
 ```
-nagateja@exploit-lab:~$ ./run_pipeline.sh --target=protocol --mode=adversarial
+developerX@exploit-lab:~$ ./run_pipeline.sh --target=protocol --mode=adversarial
 
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                ADVERSARIAL AUDIT PIPELINE  v4.2.0                    ║
@@ -176,17 +207,31 @@ nagateja@exploit-lab:~$ ./run_pipeline.sh --target=protocol --mode=adversarial
 
 ---
 
-<div align="center">
 
 ## `❯ [ OPEN_CHANNEL :: HANDSHAKE_INIT ]`
+```yaml
+# developerX@exploit-lab:~$ cat /etc/network/links.yml
 
-[![X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=X&logoColor=00FF41)](https://x.com/developerx_sec)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nagatejakachapuram)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/nagatejakachapuram)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagateja.devx@gmail.com)
+──────────────────────────────────────────────────────────
+  PRIMARY IDENTITY
+──────────────────────────────────────────────────────────
+  alias      : developerX
+  domain     : https://developerx-security.xyz
+  role       : Smart Contract Security Engineer
+
+──────────────────────────────────────────────────────────
+  AUDIT PROFILES
+──────────────────────────────────────────────────────────
+  cantina    : https://cantina.xyz/u/developerX
+  sherlock   : https://audits.sherlock.xyz/u/developerX
+  code4rena  : https://code4rena.com/@caesar49
+
+──────────────────────────────────────────────────────────
+  STATUS
+──────────────────────────────────────────────────────────
+  availability : ACTIVE
+  focus        : audits / research / protocol security
+  ```
 
 <br/>
 
