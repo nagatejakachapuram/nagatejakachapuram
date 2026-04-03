@@ -75,7 +75,7 @@ nagateja@exploit-lab:~$ cat /etc/identity.conf
 | `[SEV]` | `TARGET` | `TYPE` | `PLATFORM` | `FINDINGS` | `RANK` |
 |:---:|:---|:---:|:---:|:---|:---:|
 | 🔴 `HIGH` | **Octant V2-Core** | DeFi | Cantina | **1 High** · 2 Info | [**#6** ↗](https://cantina.xyz/code/917d796b-48d0-41d0-bb40-be137b7d3db5/overview/leaderboard) |
-| 🟠 `MED` | **Pike Finance** | Lending | Cantina | **1 Med (Solo)** · 1 Low | [**#7** ↗](https://cantina.xyz/code/917d796b-48d0-41d0-bb40-be137b7d3db5/overview/leaderboard) |
+| 🟠 `MED` | **Pike Finance** | Lending | Cantina | **1 Med (Solo)** · 1 Low | [**#7** ↗](https://cantina.xyz/code/a0806644-7d91-457a-a08d-aee2db73f352/overview/leaderboard) |
 | 🟠 `MED` | **Panoptic** | DeFi/Options | Code4rena | 1 Med · 4 Low | [**#42** ↗](https://code4rena.com/audits/2025-12-panoptic-next-core) |
 | 🟠 `MED` | **Mellow Vaults** | Vaults | Sherlock | 1 Med | [**#43** ↗](https://audits.sherlock.xyz/contests/964/leaderboard) |
 | 🟠 `MED` | **Malda** | Lending | Sherlock | 1 Med | [**#46** ↗](https://audits.sherlock.xyz/contests/1029/leaderboard) |
