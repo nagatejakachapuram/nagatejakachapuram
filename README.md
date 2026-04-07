@@ -111,8 +111,8 @@ developerX@exploit-lab:~$ cat /etc/identity.conf
 | 🟠 `MED` | **Mellow Vaults** | Vaults | Sherlock | 1 Med | [**#43** ↗](https://audits.sherlock.xyz/contests/964/leaderboard) |
 | 🟠 `MED` | **Malda** | Lending | Sherlock | 1 Med | [**#46** ↗](https://audits.sherlock.xyz/contests/1029/leaderboard) |
 | 🟡 `LOW` | **Kuru** | CLOB DEX | Cantina | 1 Low · 2 Info | [Results ↗](https://cantina.xyz/code/cdce21ba-b787-4df4-9c56-b31d085388e7/overview) |
-| 🟡 `LOW` | **Megapot** | DeFi | Code4rena | 1 Low | *Pending* |
-| 🟡 `LOW` | **Brix Money** | DeFi | Code4rena | 1 Low | *Pending* |
+| 🟡 `LOW` | **Megapot** | DeFi | Code4rena | 1 Low | [**Report** ↗](https://code4rena.com/audits/2025-11-megapot/submissions/S-649) |
+| 🟡 `LOW` | **Chainlink Payment Abstraction V2** | Infra | Code4rena | 1 Low | *Pending* |
 
 ---
 
