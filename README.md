@@ -1,40 +1,12 @@
 <div align="center">
 
-<!-- MINIMAL CYBER HEADER (NO VENOM, PURE SIGNAL) -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=600&color=00FF9C&center=true&vCenter=true&width=900&lines=Kachapuram+Nagateja;Smart+Contract+Security+Engineer;Adversarial+Researcher+%2F+Protocol+Breaker;Top+320+Cantina+All+Time+Auditor" />
 
-</div>
-  <p align="center">
-
-<a href="https://developerx-security.xyz">
-  <img src="https://www.developerx-security.xyz/images/IMG_1371.JPG"
-       width="42"
-       height="42"
-       style="object-fit: cover; border-radius: 8px;" />
-</a>
-
-<a href="https://cantina.xyz/u/developerX">
-  <img src="https://cantina.xyz/favicon.ico"
-       width="42"
-       height="42"
-       style="object-fit: contain;" />
-</a>
-
-<a href="https://audits.sherlock.xyz/u/developerX">
-  <img src="https://audits.sherlock.xyz/favicon.ico"
-       width="42"
-       height="42"
-       style="object-fit: contain;" />
-</a>
-
-<a href="https://code4rena.com/@caesar49">
- <img src="https://code4rena.com/logos/c4/c4-favicon-32.png"
-     width="42"
-     height="42"
-     style="object-fit: contain;" />
-</a>
-
+<p align="center">
+<a href="https://developerx-security.xyz"><img src="https://www.developerx-security.xyz/images/IMG_1371.JPG" width="42" height="42" style="object-fit: cover; border-radius: 8px; margin: 0 5px;" /></a><a href="https://cantina.xyz/u/developerX"><img src="https://cantina.xyz/favicon.ico" width="42" height="42" style="object-fit: contain; margin: 0 5px;" /></a><a href="https://audits.sherlock.xyz/u/developerX"><img src="https://audits.sherlock.xyz/favicon.ico" width="42" height="42" style="object-fit: contain; margin: 0 5px;" /></a><a href="https://code4rena.com/@caesar49"><img src="https://code4rena.com/logos/c4/c4-favicon-32.png" width="42" height="42" style="object-fit: contain; margin: 0 5px;" /></a>
 </p>
+
+</div>
 
 ---
 
