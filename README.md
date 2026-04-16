@@ -4,41 +4,39 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=600&color=00FF9C&center=true&vCenter=true&width=900&lines=Kachapuram+Nagateja;Smart+Contract+Security+Engineer;Adversarial+Researcher+%2F+Protocol+Breaker;Top+320+Cantina+All+Time+Auditor" />
 
 </div>
-  <p align="center">
+  <p align="center">
 
 <a href="https://developerx-security.xyz">
-  <img src="https://www.developerx-security.xyz/images/IMG_1371.JPG"
-       width="42"
-       height="42"
-       style="object-fit: cover; border-radius: 8px;" />
+  <img src="https://www.developerx-security.xyz/images/IMG_1371.JPG"
+       width="42"
+       height="42"
+       style="object-fit: cover; border-radius: 8px;" />
 </a>
 
 <a href="https://cantina.xyz/u/developerX">
-  <img src="https://cantina.xyz/favicon.ico"
-       width="42"
-       height="42"
-       style="object-fit: contain;" />
+  <img src="https://cantina.xyz/favicon.ico"
+       width="42"
+       height="42"
+       style="object-fit: contain;" />
 </a>
 
 <a href="https://audits.sherlock.xyz/u/developerX">
-  <img src="https://audits.sherlock.xyz/favicon.ico"
-       width="42"
-       height="42"
-       style="object-fit: contain;" />
+  <img src="https://audits.sherlock.xyz/favicon.ico"
+       width="42"
+       height="42"
+       style="object-fit: contain;" />
 </a>
 
 <a href="https://code4rena.com/@caesar49">
- <img src="https://code4rena.com/logos/c4/c4-favicon-32.png"
-     width="42"
-     height="42"
-     style="object-fit: contain;" />
+ <img src="https://code4rena.com/logos/c4/c4-favicon-32.png"
+     width="42"
+     height="42"
+     style="object-fit: contain;" />
 </a>
 
 </p>
 
 ---
-
-<div align="center">
 
 ## `❯ [ IDENTITY_BLOCK :: INITIALIZED ]`
 
@@ -70,8 +68,6 @@ developerX@exploit-lab:~$ cat /etc/identity.conf
 
 ---
 
-<div align="center">
-
 ## `❯ [ ACTIVE_DEPLOYMENT :: LIVE ]`
 
 </div>
@@ -99,7 +95,35 @@ developerX@exploit-lab:~$ cat /etc/identity.conf
   uptime   : ██████████████████████████████████  100%
 ```
 
----
+-----
+
+
+## `❯ [ PRIVATE_OPERATIONS :: ENCRYPTED ]`
+
+```yaml
+# developerX@exploit-lab:~$ ls -la /root/vault/kann_audits/
+
+──────────────────────────────────────────────────────────
+  FIRM: KANN Audits
+──────────────────────────────────────────────────────────
+  access_level : CONFIDENTIAL (NDA)
+  status       : DECRYPTING... [OK]
+  
+  contents:
+    - protocol_01_solidity : [REDACTED_DATA_STREAM]
+    - protocol_02_solidity : [REDACTED_DATA_STREAM]
+    - protocol_03_move     : [REDACTED_DATA_STREAM]
+```
+
+| `ID` | `TARGET` | `LANGUAGE` | `FIRM` | `FINDINGS` | `REPORT` |
+|:---:|:---|:---:|:---:|:---|:---:|
+| 🔒 | **Confidential Protocol I** | Solidity | **KANN Audits** | **[REDACTED]** | `PRIVATE` |
+| 🔒 | **Confidential Protocol II** | Solidity | **KANN Audits** | **[REDACTED]** | `PRIVATE` |
+| 🔒 | **Confidential Protocol III** | Move | **KANN Audits** | **[REDACTED]** | `PRIVATE` |
+
+> **Note:** These engagements represent private security consulting for stealth-stage protocols. Detailed findings and methodology are restricted under non-disclosure agreements.
+
+-----
 
 <br/>
 
