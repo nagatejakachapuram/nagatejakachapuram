@@ -102,7 +102,9 @@ developerX@exploit-lab:~$ cat /etc/identity.conf
 | `[SEV]` | `TARGET` | `TYPE` | `PLATFORM` | `FINDINGS` | `RANK` |
 |:---:|:---|:---:|:---:|:---|:---:|
 | 🔴 `HIGH` | **Octant V2-Core** | DeFi | Cantina | **1 High** · 2 Info | [**#6** ↗](https://cantina.xyz/code/917d796b-48d0-41d0-bb40-be137b7d3db5/overview/leaderboard) |
+| 🔴 `HIGH` | **Revert Fiannce** | Lending | Cantina | **1 High** · **1 Med** | [**#58** ↗](https://cantina.xyz/code/e55ee7b9-6c99-42f8-8338-39f3dd134ef3/overview/leaderboard) |
 | 🟠 `MED` | **Pike Finance** | Lending | Cantina | **1 Med (Solo)** · 1 Low | [**#7** ↗](https://cantina.xyz/code/a0806644-7d91-457a-a08d-aee2db73f352/overview/leaderboard) |
+| 🟠 `MED` | **Reserve Governor** | Governance | Cantina | **1 Med** · 3 Low | [**#7** ↗](https://cantina.xyz/code/980a5976-9a7d-4014-b2e1-c248b4c6fa44/overview/leaderboard) |
 | 🟠 `MED` | **Panoptic** | DeFi/Options | Code4rena | 1 Med · 4 Low | [**#42** ↗](https://code4rena.com/audits/2025-12-panoptic-next-core) |
 | 🟠 `MED` | **Mellow Vaults** | Vaults | Sherlock | 1 Med | [**#43** ↗](https://audits.sherlock.xyz/contests/964/leaderboard) |
 | 🟠 `MED` | **Malda** | Lending | Sherlock | 1 Med | [**#46** ↗](https://audits.sherlock.xyz/contests/1029/leaderboard) |
