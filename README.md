@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=600&color=00FF9C&center=true&vCenter=true&width=900&lines=Kachapuram+Nagateja;Smart+Contract+Security+Engineer;Adversarial+Researcher+%2F+Protocol+Breaker;Top+320+Cantina+All+Time+Auditor" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=600&color=00FF9C&center=true&vCenter=true&width=980&lines=Kachapuram+Nagateja;Smart+Contract+Security+Engineer;Adversarial+Researcher+%2F+Protocol+Breaker;15%2B+Audits+%C2%B7+20%2B+H%2FM+%C2%B7+50%2B+Valid+Findings;Best+Rank+%236+%C2%B7+3x+Top+10+%C2%B7+Top+300+Cantina" />
 
 <p align="center">
-<a href="https://developerx-security.xyz"><img src="https://www.developerx-security.xyz/images/IMG_1371.JPG" width="42" height="42" style="object-fit: cover; border-radius: 8px; margin: 0 5px;" /></a><a href="https://cantina.xyz/u/developerX"><img src="https://cantina.xyz/favicon.ico" width="42" height="42" style="object-fit: contain; margin: 0 5px;" /></a><a href="https://audits.sherlock.xyz/u/developerX"><img src="https://audits.sherlock.xyz/favicon.ico" width="42" height="42" style="object-fit: contain; margin: 0 5px;" /></a><a href="https://code4rena.com/@caesar49"><img src="https://code4rena.com/logos/c4/c4-favicon-32.png" width="42" height="42" style="object-fit: contain; margin: 0 5px;" /></a>
+<a href="https://developerx-security.xyz"><img src="https://www.developerx-security.xyz/images/IMG_1371.JPG" width="42" height="42" style="object-fit: cover; border-radius: 8px; margin: 0 5px;" /></a><a href="https://cantina.xyz/u/developerX"><img src="https://cantina.xyz/favicon.ico" width="42" height="42" style="object-fit: contain; margin: 0 5px;" /></a><a href="https://audits.sherlock.xyz/u/developerX"><img src="https://audits.sherlock.xyz/favicon.ico" width="42" height="42" style="object-fit: contain; margin: 0 5px;" /></a><a href="https://hackenproof.com/hackers/DeveloperX"><img src="https://www.developerx-security.xyz/images/hackenproof.svg" width="58" height="42" style="object-fit: contain; background: #ffffff; border-radius: 10px; padding: 6px; margin: 0 5px;" /></a><a href="https://code4rena.com/@caesar49"><img src="https://code4rena.com/logos/c4/c4-favicon-32.png" width="42" height="42" style="object-fit: contain; margin: 0 5px;" /></a>
 </p>
 
 </div>
@@ -22,7 +22,8 @@ developerX@exploit-lab:~$ cat /etc/identity.conf
 ║   OPERATOR  ──▶  Kachapuram Nagateja                           ║
 ║   ROLE      ──▶  Smart Contract Security Engineer              ║
 ║   CLASS     ──▶  Adversarial Researcher / Protocol Breaker     ║
-║   RANK      ──▶  Cantina TOP 320  ·  Code4rena  ·  Sherlock    ║
+║   RANK      ──▶  Cantina BEST #6  ·  3x TOP 10  ·  TOP 300     ║
+║   STATS     ──▶  15+ AUDITS · 20+ H/M · 50+ VALID FINDINGS     ║
 ║   OPS       ──▶  Invariant Hunting / Exploit Engineering       ║
 ║   THREAT    ──▶  ██████████████████████████  MAXIMUM           ║
 ║                                                                ║
@@ -69,7 +70,6 @@ developerX@exploit-lab:~$ cat /etc/identity.conf
 
 -----
 
-
 ## `❯ [ PRIVATE_OPERATIONS :: ENCRYPTED ]`
 
 ```yaml
@@ -82,16 +82,16 @@ developerX@exploit-lab:~$ cat /etc/identity.conf
   status       : DECRYPTING... [OK]
   
   contents:
-    - protocol_01_solidity : [REDACTED_DATA_STREAM]
-    - protocol_02_solidity : [REDACTED_DATA_STREAM]
-    - protocol_03_move     : [REDACTED_DATA_STREAM]
+    - protocol_01_solidity : 1H · 3I
+    - protocol_02_solidity : 1M · 1I
+    - protocol_03_move     : 2H · 3M · 17L · 2I
 ```
 
 | `ID` | `TARGET` | `LANGUAGE` | `FIRM` | `FINDINGS` | `REPORT` |
 |:---:|:---|:---:|:---:|:---|:---:|
-| 🔒 | **Confidential Protocol I** | Solidity | **KANN Audits** | **[REDACTED]** | `PRIVATE` |
-| 🔒 | **Confidential Protocol II** | Solidity | **KANN Audits** | **[REDACTED]** | `PRIVATE` |
-| 🔒 | **Confidential Protocol III** | Move | **KANN Audits** | **[REDACTED]** | `PRIVATE` |
+| 🔒 | **Confidential Protocol I** | Solidity | **KANN Audits** | **1 High** · 3 Info | `PRIVATE` |
+| 🔒 | **Confidential Protocol II** | Solidity | **KANN Audits** | **1 Med** · 1 Info | `PRIVATE` |
+| 🔒 | **Confidential Protocol III** | Move | **KANN Audits** | **2 High** · 3 Med · 17 Low · 2 Info | `PRIVATE` |
 
 > **Note:** These engagements represent private security consulting for stealth-stage protocols. Detailed findings and methodology are restricted under non-disclosure agreements.
 
@@ -102,15 +102,16 @@ developerX@exploit-lab:~$ cat /etc/identity.conf
 | `[SEV]` | `TARGET` | `TYPE` | `PLATFORM` | `FINDINGS` | `RANK` |
 |:---:|:---|:---:|:---:|:---|:---:|
 | 🔴 `HIGH` | **Octant V2-Core** | DeFi | Cantina | **1 High** · 2 Info | [**#6** ↗](https://cantina.xyz/code/917d796b-48d0-41d0-bb40-be137b7d3db5/overview/leaderboard) |
-| 🔴 `HIGH` | **Revert Fiannce** | Lending | Cantina | **1 High** · **1 Med** | [**#58** ↗](https://cantina.xyz/code/e55ee7b9-6c99-42f8-8338-39f3dd134ef3/overview/leaderboard) |
-| 🟠 `MED` | **Pike Finance** | Lending | Cantina | **1 Med (Solo)** · 1 Low | [**#7** ↗](https://cantina.xyz/code/a0806644-7d91-457a-a08d-aee2db73f352/overview/leaderboard) |
-| 🟠 `MED` | **Reserve Governor** | Governance | Cantina | **1 Med** · 3 Low | [**#7** ↗](https://cantina.xyz/code/980a5976-9a7d-4014-b2e1-c248b4c6fa44/overview/leaderboard) |
-| 🟠 `MED` | **Panoptic** | DeFi/Options | Code4rena | 1 Med · 4 Low | [**#42** ↗](https://code4rena.com/audits/2025-12-panoptic-next-core) |
-| 🟠 `MED` | **Mellow Vaults** | Vaults | Sherlock | 1 Med | [**#43** ↗](https://audits.sherlock.xyz/contests/964/leaderboard) |
-| 🟠 `MED` | **Malda** | Lending | Sherlock | 1 Med | [**#46** ↗](https://audits.sherlock.xyz/contests/1029/leaderboard) |
-| 🟡 `LOW` | **Kuru** | CLOB DEX | Cantina | 1 Low · 2 Info | [Results ↗](https://cantina.xyz/code/cdce21ba-b787-4df4-9c56-b31d085388e7/overview) |
-| 🟡 `LOW` | **Megapot** | DeFi | Code4rena | 1 Low | [**Report** ↗](https://code4rena.com/audits/2025-11-megapot/submissions/S-649) |
-| 🟡 `LOW` | **Chainlink Payment Abstraction V2** | Infra | Code4rena | 1 Low | *Pending* |
+| 🔴 `HIGH` | **Revert Finance** | DeFi | Cantina | **1 High** · 1 Med | `—` |
+| 🔴 `HIGH` | **0xmarkets** | DeFi | HackenProof | **2 High** · 3 Med | `—` |
+| 🟠 `MED` | **Pike Finance** | Lending | Cantina | **1 Med** · 1 Low | [**#7** ↗](https://cantina.xyz/code/917d796b-48d0-41d0-bb40-be137b7d3db5/overview/leaderboard) |
+| 🟠 `MED` | **Reserve Governor** | DeFi | Cantina | **1 Med** · 3 Low | [**#7** ↗](https://cantina.xyz/code/980a5976-9a7d-4014-b2e1-c248b4c6fa44/overview/leaderboard) |
+| 🟠 `MED` | **Panoptic** | Options | Code4rena | **1 Med** | [**#42** ↗](https://code4rena.com/audits/2024-04-panoptic) |
+| 🟠 `MED` | **Mellow Vaults** | Vaults | Sherlock | **1 Med** | [**#43** ↗](https://audits.sherlock.xyz/contests/964/leaderboard) |
+| 🟠 `MED` | **Malda** | Lending | Sherlock | **1 Med** | [**#46** ↗](https://audits.sherlock.xyz/contests/1029/leaderboard) |
+| 🟡 `LOW` | **Kuru** | CLOB | Cantina | **1 Low** · 2 Info | [**#24** ↗](https://cantina.xyz/code/cdce21ba-b787-4df4-9c56-b31d085388e7/overview) |
+| 🟡 `LOW` | **Megapot** | DeFi | Code4rena | **1 Low** | [**#50** ↗](https://code4rena.com/audits/2025-11-megapot/dashboard) |
+| 🟡 `LOW` | **Chainlink Payment Abstraction V2** | Infrastructure | Code4rena | **1 Low** | [**Results** ↗](https://code4rena.com/audits/2026-03-chainlink-payment-abstraction-v2) |
 
 ---
 
@@ -120,11 +121,11 @@ developerX@exploit-lab:~$ cat /etc/identity.conf
 
 </div>
 
-```
+```text
 developerX@exploit-lab:~$ ./run_pipeline.sh --target=protocol --mode=adversarial
 
 ╔══════════════════════════════════════════════════════════════════════╗
-║                ADVERSARIAL AUDIT PIPELINE  v4.2.0                    ║
+║                ADVERSARIAL AUDIT PIPELINE  v4.2.0                  ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
 ║  [01]  ██░░░░░░░░  THREAT MODELING                                   ║
@@ -205,7 +206,6 @@ developerX@exploit-lab:~$ ./run_pipeline.sh --target=protocol --mode=adversarial
 
 ---
 
-
 ## `❯ [ OPEN_CHANNEL :: HANDSHAKE_INIT ]`
 ```yaml
 # developerX@exploit-lab:~$ cat /etc/network/links.yml
@@ -220,20 +220,21 @@ developerX@exploit-lab:~$ ./run_pipeline.sh --target=protocol --mode=adversarial
 ──────────────────────────────────────────────────────────
   AUDIT PROFILES
 ──────────────────────────────────────────────────────────
-  cantina    : https://cantina.xyz/u/developerX
-  sherlock   : https://audits.sherlock.xyz/u/developerX
-  code4rena  : https://code4rena.com/@caesar49
+  cantina      : https://cantina.xyz/u/developerX
+  sherlock     : https://audits.sherlock.xyz/u/developerX
+  hackenproof  : https://hackenproof.com/hackers/DeveloperX
+  code4rena    : https://code4rena.com/@caesar49
 
 ──────────────────────────────────────────────────────────
   STATUS
 ──────────────────────────────────────────────────────────
   availability : ACTIVE
   focus        : audits / research / protocol security
-  ```
+```
 
 <br/>
 
-```
+```text
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
 ║   "The best security researchers don't just find bugs —              ║
@@ -253,3 +254,4 @@ developerX@exploit-lab:~$ ./run_pipeline.sh --target=protocol --mode=adversarial
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003300,100:00FF41&height=80&section=footer&animation=fadeIn"/>
 
 </div>
+```
