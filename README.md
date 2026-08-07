@@ -23,7 +23,7 @@ developerX@exploit-lab:~$ cat /etc/identity.conf
 ║   ROLE      ──▶  Smart Contract Security Engineer              ║
 ║   CLASS     ──▶  Adversarial Researcher / Protocol Breaker     ║
 ║   RANK      ──▶  Cantina BEST #6  ·  3x TOP 10  ·  TOP 300     ║
-║   STATS     ──▶  15+ AUDITS · 20+ H/M · 50+ VALID FINDINGS     ║
+║   STATS     ──▶  20+ AUDITS · 20+ H/M · 50+ VALID FINDINGS     ║
 ║   OPS       ──▶  Invariant Hunting / Exploit Engineering       ║
 ║   THREAT    ──▶  ██████████████████████████  MAXIMUM           ║
 ║                                                                ║
