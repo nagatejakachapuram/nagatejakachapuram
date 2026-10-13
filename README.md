@@ -102,8 +102,8 @@ developerX@exploit-lab:~$ cat /etc/identity.conf
 | `[SEV]` | `TARGET` | `TYPE` | `PLATFORM` | `FINDINGS` | `RANK` |
 |:---:|:---|:---:|:---:|:---|:---:|
 | 🔴 `HIGH` | **Octant V2-Core** | DeFi | Cantina | **1 High** · 2 Info | [**#6** ↗](https://cantina.xyz/code/917d796b-48d0-41d0-bb40-be137b7d3db5/overview/leaderboard) |
-| 🔴 `HIGH` | **Revert Finance** | DeFi | Cantina | **1 High** · 1 Med | [**58** ↗](https://cantina.xyz/code/e55ee7b9-6c99-42f8-8338-39f3dd134ef3/overview/leaderboard) |
-| 🔴 `HIGH` | **0xmarkets** | DeFi | HackenProof | **2 High** · 3 Med | [**58** ↗](https://dashboard.hackenproof.com/user/programs/0xmarkets-audit-contest) |
+| 🔴 `HIGH` | **Revert Finance** | DeFi | Cantina | **1 High** · 1 Med | [**#58** ↗](https://cantina.xyz/code/e55ee7b9-6c99-42f8-8338-39f3dd134ef3/overview/leaderboard) |
+| 🔴 `HIGH` | **0xmarkets** | DeFi | HackenProof | **2 High** · 3 Med | [**#58** ↗](https://dashboard.hackenproof.com/user/programs/0xmarkets-audit-contest) |
 | 🟠 `MED` | **Pike Finance** | Lending | Cantina | **1 Med** · 1 Low | [**#7** ↗](https://cantina.xyz/code/917d796b-48d0-41d0-bb40-be137b7d3db5/overview/leaderboard) |
 | 🟠 `MED` | **Reserve Governor** | DeFi | Cantina | **1 Med** · 3 Low | [**#7** ↗](https://cantina.xyz/code/980a5976-9a7d-4014-b2e1-c248b4c6fa44/overview/leaderboard) |
 | 🟠 `MED` | **Panoptic** | Options | Code4rena | **1 Med** | [**#42** ↗](https://code4rena.com/audits/2024-04-panoptic) |
