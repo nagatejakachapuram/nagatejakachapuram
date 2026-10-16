@@ -91,7 +91,7 @@ developerX@exploit-lab:~$ cat /etc/identity.conf
 |:---:|:---|:---:|:---:|:---|:---:|
 | 🔒 | **Confidential Protocol I** | Solidity | **KANN Audits** | **1 High** · 3 Info | `PRIVATE` |
 | 🔒 | **Confidential Protocol II** | Solidity | **KANN Audits** | **1 Med** · 1 Info | `PRIVATE` |
-| 🔒 | **Confidential Protocol III** | Move | **KANN Audits** | **2 High** · 3 Med · 17 Low · 2 Info | `PRIVATE` |
+| 🔒 | **Confidential Protocol III** | Move | **KANN Audits** | **2 High** · 3 Med · 17 Low · 2 Info | `PRIVATE` | |[**Report** ↗](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/APTree-security-review-2026-04-13.pdf) |
 
 > **Note:** These engagements represent private security consulting for stealth-stage protocols. Detailed findings and methodology are restricted under non-disclosure agreements.
 
